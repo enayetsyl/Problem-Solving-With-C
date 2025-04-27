@@ -1,0 +1,1 @@
+{"name":"Local: c_next_alphabet","url":"c:\\phitron\\2025\\Semester 1\\Module 6\\c_next_alphabet.c","tests":[{"id":1745760242105,"input":"a","output":"b"},{"id":1745760302139,"input":"z","output":"a"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 6\\c_next_alphabet.c","group":"local","local":true}

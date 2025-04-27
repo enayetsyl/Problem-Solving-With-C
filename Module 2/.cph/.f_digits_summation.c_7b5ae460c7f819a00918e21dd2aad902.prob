@@ -1,0 +1,1 @@
+{"name":"Local: f_digits_summation","url":"c:\\phitron\\2025\\Semester 1\\Module 2\\f_digits_summation.c","tests":[{"id":1745643517754,"input":"13 12","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 2\\f_digits_summation.c","group":"local","local":true}

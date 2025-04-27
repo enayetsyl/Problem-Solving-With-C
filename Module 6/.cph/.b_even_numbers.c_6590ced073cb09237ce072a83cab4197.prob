@@ -1,0 +1,1 @@
+{"name":"Local: b_even_numbers","url":"c:\\phitron\\2025\\Semester 1\\Module 6\\b_even_numbers.c","tests":[{"id":1745737884718,"input":"10","output":"2\n4\n6\n8\n10"},{"id":1745737945912,"input":"1","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 6\\b_even_numbers.c","group":"local","local":true}

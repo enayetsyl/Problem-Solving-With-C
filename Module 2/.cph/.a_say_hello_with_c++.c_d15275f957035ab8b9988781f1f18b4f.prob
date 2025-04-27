@@ -1,0 +1,1 @@
+{"name":"Local: a_say_hello_with_c++","url":"c:\\phitron\\2025\\Semester 1\\Module 2\\a_say_hello_with_c++.c","tests":[{"id":1745589914585,"input":"programmer","output":"Hello, programmer"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 2\\a_say_hello_with_c++.c","group":"local","local":true}

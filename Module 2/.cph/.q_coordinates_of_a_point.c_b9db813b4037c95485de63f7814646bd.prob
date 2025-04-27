@@ -1,0 +1,1 @@
+{"name":"Local: q_coordinates_of_a_point","url":"c:\\phitron\\2025\\Semester 1\\Module 2\\q_coordinates_of_a_point.c","tests":[{"id":1745674834226,"input":"0.1 0.1\n","output":"Q1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 2\\q_coordinates_of_a_point.c","group":"local","local":true}

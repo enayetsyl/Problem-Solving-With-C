@@ -1,0 +1,1 @@
+{"name":"Local: c_simple_calculator","url":"c:\\phitron\\2025\\Semester 1\\Module 2\\c_simple_calculator.c","tests":[{"id":1745590567370,"input":"5 10","output":"5 + 10 = 15\n5 * 10 = 50\n5 - 10 = -5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 2\\c_simple_calculator.c","group":"local","local":true}
