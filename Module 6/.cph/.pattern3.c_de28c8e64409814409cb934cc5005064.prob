@@ -1,0 +1,1 @@
+{"name":"Local: pattern3","url":"c:\\phitron\\2025\\Semester 1\\Module 6\\pattern3.c","tests":[{"id":1745767935438,"input":"6","output":"A\nB B\nC C C\nD D D D\nE E E E E\nF F F F F F \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 6\\pattern3.c","group":"local","local":true}

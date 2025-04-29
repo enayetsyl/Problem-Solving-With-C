@@ -1,0 +1,1 @@
+{"name":"Local: update_and_print","url":"c:\\phitron\\2025\\Semester 1\\Assignment 2\\update_and_print.c","tests":[{"id":1745855565700,"input":"5\n10 20 30 40 50\n1 100","output":"50 40 30 100 10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Assignment 2\\update_and_print.c","group":"local","local":true}

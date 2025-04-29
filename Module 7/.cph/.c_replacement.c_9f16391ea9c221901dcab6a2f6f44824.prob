@@ -1,0 +1,1 @@
+{"name":"Local: c_replacement","url":"c:\\phitron\\2025\\Semester 1\\Module 7\\c_replacement.c","tests":[{"id":1745831938618,"input":"5\n1 -2 0 3 4\n","output":"1 2 0 1 1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 7\\c_replacement.c","group":"local","local":true}

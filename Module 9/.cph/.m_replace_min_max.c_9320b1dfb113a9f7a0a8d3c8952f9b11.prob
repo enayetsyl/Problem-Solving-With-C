@@ -1,0 +1,1 @@
+{"name":"Local: m_replace_min_max","url":"c:\\phitron\\2025\\Semester 1\\Module 9\\m_replace_min_max.c","tests":[{"id":1745939247858,"input":"5\n4 1 3 10 8\n","output":"4 10 3 1 8 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 9\\m_replace_min_max.c","group":"local","local":true}
