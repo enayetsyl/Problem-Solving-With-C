@@ -1,0 +1,1 @@
+{"name":"Local: i_smallest_pair","url":"c:\\phitron\\2025\\Semester 1\\Module 9\\i_smallest_pair.c","tests":[{"id":1745942030340,"input":"1\n4\n20 1 9 4\n","output":"7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 9\\i_smallest_pair.c","group":"local","local":true}
