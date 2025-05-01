@@ -1,0 +1,1 @@
+{"name":"Local: c_compare","url":"c:\\phitron\\2025\\Semester 1\\Module 9\\c_compare.c","tests":[{"id":1746101146817,"input":"acm\nacpc","output":"acm"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 9\\c_compare.c","group":"local","local":true}

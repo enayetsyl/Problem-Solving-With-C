@@ -1,0 +1,1 @@
+{"name":"Local: k_sum_digits","url":"c:\\phitron\\2025\\Semester 1\\Module 9\\k_sum_digits.c","tests":[{"id":1746111514450,"input":"5\n13305\n","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 9\\k_sum_digits.c","group":"local","local":true}

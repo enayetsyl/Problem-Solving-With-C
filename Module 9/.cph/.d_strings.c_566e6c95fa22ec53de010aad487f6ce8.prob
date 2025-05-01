@@ -1,0 +1,1 @@
+{"name":"Local: d_strings","url":"c:\\phitron\\2025\\Semester 1\\Module 9\\d_strings.c","tests":[{"id":1746062324534,"input":"abcd\nef\n","output":"4 2\nabcdef\nebcd af\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 9\\d_strings.c","group":"local","local":true}

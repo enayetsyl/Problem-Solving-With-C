@@ -1,0 +1,1 @@
+{"name":"Local: count_me_1","url":"c:\\phitron\\2025\\Semester 1\\Mid-term\\count_me_1.c","tests":[{"id":1746115960050,"input":"5\n1 4 2 5 3","output":"2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Mid-term\\count_me_1.c","group":"local","local":true}
