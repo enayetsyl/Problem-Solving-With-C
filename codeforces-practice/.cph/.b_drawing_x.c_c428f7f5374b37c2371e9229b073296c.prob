@@ -1,0 +1,1 @@
+{"name":"Local: b_drawing_x","url":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\b_drawing_x.c","tests":[{"id":1746248970796,"input":"5","output":"\\***/\n*\\*/*\n**X**\n*/*\\*\n/***\\\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\b_drawing_x.c","group":"local","local":true}
