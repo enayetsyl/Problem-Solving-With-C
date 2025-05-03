@@ -1,0 +1,1 @@
+{"name":"Local: h_one_prime","url":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\h_one_prime.c","tests":[{"id":1746161984825,"input":"79","output":"YES\n"},{"id":1746161990951,"input":"15\n","output":"NO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\h_one_prime.c","group":"local","local":true}

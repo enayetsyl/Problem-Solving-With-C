@@ -1,0 +1,1 @@
+{"name":"Local: a_winter_sale","url":"c:\\phitron\\2025\\Semester 1\\Module 9\\a_winter_sale.c","tests":[{"id":1746153856824,"input":"20 80\n","output":"100.00\n"},{"id":1746153864346,"input":"15 20\n","output":"23.53"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 9\\a_winter_sale.c","group":"local","local":true}
