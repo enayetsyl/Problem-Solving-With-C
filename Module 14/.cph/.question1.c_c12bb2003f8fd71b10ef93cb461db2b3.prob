@@ -1,0 +1,1 @@
+{"name":"Local: question1","url":"c:\\phitron\\2025\\Semester 1\\Module 14\\question1.c","tests":[{"id":1746835026044,"input":"5","output":"    *\n   **\n  ***\n ****\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Module 14\\question1.c","group":"local","local":true}
