@@ -1,0 +1,1 @@
+{"name":"Local: find_the_missing_number","url":"c:\\phitron\\2025\\Semester 1\\Final Exam\\find_the_missing_number.c","tests":[{"id":1747878544464,"input":"4\n20 1 2 2\n10 2 2 1\n1 1 2 3\n0 3 10 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Final Exam\\find_the_missing_number.c","group":"local","local":true}

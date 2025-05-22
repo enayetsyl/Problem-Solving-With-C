@@ -1,0 +1,1 @@
+{"name":"Local: w_mirror_array","url":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\w_mirror_array.c","tests":[{"id":1747612681272,"input":"3 3\n2 3 5\n7 9 20\n35 1 12\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\w_mirror_array.c","group":"local","local":true}

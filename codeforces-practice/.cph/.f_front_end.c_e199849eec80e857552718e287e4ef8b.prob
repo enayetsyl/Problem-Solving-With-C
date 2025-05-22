@@ -1,0 +1,1 @@
+{"name":"Local: f_front_end","url":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\f_front_end.c","tests":[{"id":1747578076129,"input":"5\n1 2 3 4 5","output":"1 5 2 4 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\f_front_end.c","group":"local","local":true}
