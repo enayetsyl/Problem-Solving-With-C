@@ -1,0 +1,1 @@
+{"name":"Local: difference_array","url":"c:\\phitron\\2025\\Semester 1\\Final Exam\\difference_array.c","tests":[{"id":1747882243355,"input":"2\n5\n5 4 3 2 1\n6\n2 4 5 6 5 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\Final Exam\\difference_array.c","group":"local","local":true}
