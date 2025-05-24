@@ -1,0 +1,1 @@
+{"name":"Local: k_max_number","url":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\k_max_number.c","tests":[{"id":1748065855858,"input":"5\n1 -3 5 4 -6","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\phitron\\2025\\Semester 1\\codeforces-practice\\k_max_number.c","group":"local","local":true}
